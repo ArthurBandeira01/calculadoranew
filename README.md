@@ -48,7 +48,7 @@ Calculadora desenvolvida com JavaScript puro
 ## Sobre o projeto
 <p>Calculadora desenvolvida com JS puro + HTML + CSS</p>
 <hr>
-<img src="./src/assets/img/print.png" alt="Calculator">
+<img src="./Calculadora/src/assets/img/print.png" alt="Calculator">
 <hr>
 ### Construido com
 
